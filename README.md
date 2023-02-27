@@ -127,8 +127,6 @@ git clone https://github.com/shaojintian/Best_README_template.git
 
 akersliang@foxmail.com
 
-
-
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
 ### 版权说明
@@ -156,6 +154,6 @@ akersliang@foxmail.com
 [issues-shield]: https://github.com/Akers/TomatoMissionDoer.svg?style=flat-square
 [issues-url]: https://github.com/Akers/TomatoMissionDoer.svg
 [license-shield]: https://github.com/Akers/TomatoMissionDoer.svg?style=flat-square
-[license-url]: https://github.com/Akers/TomatoMissionDoer/blob/master/LICENSE.txt
+[license-url]: https://github.com/Akers/TomatoMissionDoer/blob/master/LICENSE
 [linkedin-shield]:https://github.com/Akers/TomatoMissionDoer.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://github.com/Akers/TomatoMissionDoer
