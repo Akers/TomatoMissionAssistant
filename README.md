@@ -144,16 +144,17 @@ akersliang@foxmail.com
 
 <!-- links -->
 
-[your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://github.com/Akers/TomatoMissionDoer.svg?style=flat-square
+[your-project-path]: Akers/TomatoMissionDoer
+[contributors-shield]: https://img.shields.io/github/contributors/Akers/TomatoMissionDoer.svg?style=flat-square
 [contributors-url]: https://github.com/Akers/TomatoMissionDoer/graphs/contributors
-[forks-shield]: https://github.com/Akers/TomatoMissionDoer.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/Akers/TomatoMissionDoer.svg?style=flat-square
 [forks-url]: https://github.com/shaojintian/Best_README_template/network/members
-[stars-shield]: https://github.com/Akers/TomatoMissionDoer.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Akers/TomatoMissionDoer.svg?style=flat-square
 [stars-url]:https://github.com/Akers/TomatoMissionDoer/stargazers
-[issues-shield]: https://github.com/Akers/TomatoMissionDoer.svg?style=flat-square
+
+[issues-shield]: https://img.shields.io/github/issues/Akers/TomatoMissionDoer.svg?style=flat-square
 [issues-url]: https://github.com/Akers/TomatoMissionDoer.svg
-[license-shield]: https://github.com/Akers/TomatoMissionDoer.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/Akers/TomatoMissionDoer.svg?style=flat-square
 [license-url]: https://github.com/Akers/TomatoMissionDoer/blob/master/LICENSE
-[linkedin-shield]:https://github.com/Akers/TomatoMissionDoer.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://github.com/Akers/TomatoMissionDoer
