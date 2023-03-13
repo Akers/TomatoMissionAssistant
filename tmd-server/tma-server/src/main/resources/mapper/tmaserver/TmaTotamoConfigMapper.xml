@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.github.akers.tma.mapper.TmaTotamoConfigMapper">
+
+    <resultMap type="com.github.akers.tma.domain.TmaTotamoConfig" id="TmaTotamoConfigResult">
+        <result property="id" column="id"/>
+        <result property="version" column="version"/>
+        <result property="createBy" column="create_by"/>
+        <result property="createTime" column="create_time"/>
+        <result property="updateBy" column="update_by"/>
+        <result property="updateTime" column="update_time"/>
+        <result property="configId" column="config_id"/>
+        <result property="timerFocus" column="timer_focus"/>
+        <result property="timerShortBreak" column="timer_short_break"/>
+        <result property="timerLongBreak" column="timer_long_break"/>
+        <result property="timerRounds" column="timer_rounds"/>
+        <result property="userId" column="user_id"/>
+    </resultMap>
+
+
+</mapper>

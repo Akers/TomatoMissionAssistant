@@ -1,0 +1,4 @@
+/tma-client/electron-client/build
+/tma-client/electron-client/node_modules
+/tma-client/electron-client/frontend/node_modules
+/tma-client/electron-client/public\dist

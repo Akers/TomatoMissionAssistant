@@ -1,4 +1,4 @@
-# TomatoMissionDoer
+# TomatoMissionAssistant
 
 ProjectName and Description
 
@@ -23,12 +23,6 @@ ProjectName and Description
 <h3 align="center">番茄任务管理助手</h3>
   <p align="center">
     一个普普通通的番茄任务助手
-<br />
-<b>T.</b> Tomato 番茄工作法
- <br />
-<b>M.</b> Mission 任务
- <br />
-<b>D.</b> Doer 实干家们，停止空谈，去做吧！
     <br />
     <a href="https://github.com/Akers/TomatoMissionDoer"><strong>探索本项目的文档 »</strong></a>
     <br />
@@ -61,7 +55,7 @@ ProjectName and Description
 
 ### 上手指南
 
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
+
 
 ###### 开发前的配置要求
 
@@ -74,24 +68,14 @@ ProjectName and Description
 2. Clone the repo
 
 ```sh
-git clone https://github.com/shaojintian/Best_README_template.git
+git clone https://github.com/akers/TomatoMissionAssistant.git
 ```
 
 ### 文件目录说明
 
 ```
 ./
-├─images # 文档图片
-├─prints # 打印件
-└─smart-fish-tank # 控制源码
-    ├─.pio
-    │  └─build
-    │      └─esp32-c3-devkitm-1
-    ├─.vscode
-    ├─include
-    ├─lib
-    ├─src
-    └─test
+
 ```
 
 ### 
@@ -103,6 +87,8 @@ git clone https://github.com/shaojintian/Best_README_template.git
 ### 使用到的框架
 
 - [若依](https://ruoyi.vip/)
+- [RuoYi-Vue-Plus](https://github.com/JavaLionLi/RuoYi-Vue-Plus)
+- [electron-egg](https://github.com/dromara/electron-egg)
 - 
 
 ### 贡献者
@@ -140,21 +126,22 @@ akersliang@foxmail.com
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Pages](https://pages.github.com)
 - [Animate.css](https://daneden.github.io/animate.css)
-- [arduino](https://www.arduino.cc/)
+- [RuoYi-Vue-Plus](https://github.com/JavaLionLi/RuoYi-Vue-Plus)
+- [electron-egg](https://github.com/dromara/electron-egg)
 
 <!-- links -->
 
-[your-project-path]: Akers/TomatoMissionDoer
-[contributors-shield]: https://img.shields.io/github/contributors/Akers/TomatoMissionDoer.svg?style=flat-square
+[your-project-path]: Akers/TomatoMissionAssistant
+[contributors-shield]: https://img.shields.io/github/contributors/Akers/TomatoMissionAssistant.svg?style=flat-square
 [contributors-url]: https://github.com/Akers/TomatoMissionDoer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Akers/TomatoMissionDoer.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/Akers/TomatoMissionAssistant.svg?style=flat-square
 [forks-url]: https://github.com/shaojintian/Best_README_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Akers/TomatoMissionDoer.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Akers/TomatoMissionAssistant.svg?style=flat-square
 [stars-url]:https://github.com/Akers/TomatoMissionDoer/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/Akers/TomatoMissionDoer.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/Akers/TomatoMissionAssistant.svg?style=flat-square
 [issues-url]: https://github.com/Akers/TomatoMissionDoer.svg
-[license-shield]: https://img.shields.io/github/license/Akers/TomatoMissionDoer.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/Akers/TomatoMissionAssistant.svg?style=flat-square
 [license-url]: https://github.com/Akers/TomatoMissionDoer/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://github.com/Akers/TomatoMissionDoer
+[linkedin-url]: https://github.com/Akers/TomatoMissionAssistant

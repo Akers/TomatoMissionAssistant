@@ -1,0 +1,10 @@
+@font-face {
+    font-family: HarmonyOSSansSC;
+    src: url('./HarmonyOS_Sans_SC_Regular.ttf');
+    font-style: normal;
+}
+@font-face {
+    font-family: HarmonyOSSansSCThin;
+    src: url('./HarmonyOS_Sans_SC_Thin');
+    font-style: normal;
+}
